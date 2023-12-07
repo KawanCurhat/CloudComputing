@@ -1,0 +1,9 @@
+{
+  "name": "my-cloud-function",
+  "version": "1.0.0",
+  "description": "Google Cloud Function to access Places API",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0" 
+  }
+}
