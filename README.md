@@ -1,4 +1,4 @@
-# KawanCurhat- Cloud Computing
+# KawanCurhat - Cloud Computing
 ## Team ID : CH2-PS264
 
 ## Team Members
