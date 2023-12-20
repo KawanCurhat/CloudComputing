@@ -11,6 +11,6 @@
 * (MD) A013BSX2997 - Susilowati - Universitas Terbuka
 
 # Other Repo
-[KawanCurhat Cloud Computing](https://github.com/KawanCurhat/CloudComputing)
+[KawanCurhat Machine Learning](https://github.com/KawanCurhat/MachineLearning)
 ## Mobile Development:
-[KawanCurhat Mobile Development](https://github.com/KawanCurhat/MachineLearning)
+[KawanCurhat Mobile Development](https://github.com/KawanCurhat/MobileDevelopment)
