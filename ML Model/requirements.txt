@@ -1,0 +1,6 @@
+functions-framework==3.5.0
+nltk==3.8.1
+numpy==1.23.5
+keras==2.15.0
+tensorflow==2.15.0
+protobuf==3.20.3
